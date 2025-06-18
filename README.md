@@ -1,16 +1,36 @@
-# zodiacal_banderogoose
+# Zodiacal Banderogoose
 
-A new Flutter project.
+Zodiacal Banderogoose is a fun, patriotic, and astrology-inspired mobile application built with Flutter. It combines classic zodiac sign features with a unique Ukrainian twist — featuring bold humor, national symbolism, and "goose-powered" forecasts.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Select Your Zodiac Sign — Choose from 12 zodiac signs and explore their fun descriptions.
+- Daily Forecasts — Randomized daily predictions delivered in a humorous Banderogus style.
+- Compatibility Check — Discover your love, friendship, and work compatibility with any other sign.
+- Which Sign Are You Really? — A funny personality quiz to reveal your “true” Banderosign.
+- Light & Dark Mode Support — Seamlessly switch between themes.
+- Ukrainian Language & Spirit — All content is in Ukrainian with a humorous, national twist.
 
-A few resources to get you started if this is your first Flutter project:
+  ## Technologies
+  
+  Flutter (Dart)
+  Shared Preferences (for storing user data)
+  Provider (for theme switching
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  ## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![image](https://github.com/user-attachments/assets/8d5ddfad-89c0-4bcc-be3a-44900028984a)
+  Homescreen with a Light & Dark Mode Support to switch between themes
+
+  ![image](https://github.com/user-attachments/assets/54d3e86d-e5de-4f5d-8c7b-f0088710d70a)
+  ![image](https://github.com/user-attachments/assets/3593d19b-e9ea-4e01-a233-8925010ac280)
+  Choose your sign, explore it`s fun descriptions and discover your love, friendship, and work compatibility with any other sign.
+
+  ![image](https://github.com/user-attachments/assets/5e3d2843-8ad4-4961-ae30-b8c04dd84a8b)
+  A funny personality quiz to reveal your “true” Banderosign.
+
+  ## Author
+  Developed with love by a student of National Aviation University, Artem Kovalenko!
+  "Horoscopes are good, but Banderogoose is better!"
+
+
